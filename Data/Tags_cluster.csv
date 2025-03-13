@@ -1,0 +1,242 @@
+,Tag,Cluster,Cluster_Name
+0,2d-games,2,Game Development and Design
+1,accelerometer,40,"""Sensor Technology"""
+2,activity-recognition,41,"""Technology & Software"""
+3,alarm,29,"""Alarm and Alert Systems"""
+4,alarmmanager,29,"""Alarm and Alert Systems"""
+5,alerts,29,"""Alarm and Alert Systems"""
+6,amazon-sns,42,"""Cloud Services"""
+7,android,9,Android Development
+8,android-4.0-ice-cream-sandwich,9,Android Development
+9,android-6.0-marshmallow,9,Android Development
+10,android-8.0-oreo,9,Android Development
+11,android-activity,9,Android Development
+12,android-alarms,9,Android Development
+13,android-asynctask,9,Android Development
+14,android-background,9,Android Development
+15,android-bluetooth,10,"""Bluetooth Technology"""
+16,android-broadcast,9,Android Development
+17,android-broadcastreceiver,9,Android Development
+18,android-context,9,Android Development
+19,android-doze,9,Android Development
+20,android-fragments,9,Android Development
+21,android-fusedlocation,9,Android Development
+22,android-geofence,9,Android Development
+23,android-googleapiclient,9,Android Development
+24,android-gps,9,Android Development
+25,android-intent,9,Android Development
+26,android-location,6,"""Location and Navigation Services"""
+27,android-maps-v2,9,Android Development
+28,android-networking,9,Android Development
+29,android-notifications,23,"""Mobile Notifications"""
+30,android-powermanager,19,"""Power Management"""
+31,android-sensors,9,Android Development
+32,android-service,8,"""Android Service Management"""
+33,android-service-binding,8,"""Android Service Management"""
+34,android-studio,9,Android Development
+35,android-syncadapter,9,Android Development
+36,android-volley,9,Android Development
+37,android-wake-lock,1,"""Mobile Development"""
+38,android-widget,9,Android Development
+39,android-wifi,9,Android Development
+40,android-workmanager,9,Android Development
+41,animation,2,Game Development and Design
+42,api,43,"""Programming/Technology"""
+43,apple-push-notifications,23,"""Mobile Notifications"""
+44,appstore-approval,20,iOS Development
+45,auto-close,32,"""Technology & Automation"""
+46,automation,32,"""Technology & Automation"""
+47,backend,33,"""Server Processes"""
+48,background,44,"""Design Elements"""
+49,background-process,33,"""Server Processes"""
+50,background-service,8,"""Android Service Management"""
+51,background-task,33,"""Server Processes"""
+52,battery,30,"""Power Management"""
+53,battery-saver,30,"""Power Management"""
+54,batterylevel,45,"""Device Status"""
+55,batterymanager,30,"""Power Management"""
+56,benchmarking,46,"""Performance Analysis"""
+57,blackberry,47,"""Mobile Devices/Smartphones"""
+58,bluetooth,10,"""Bluetooth Technology"""
+59,bluetooth-lowenergy,10,"""Bluetooth Technology"""
+60,broadcastreceiver,48,"""Android Programming"""
+61,browser,49,"""Internet & Technology"""
+62,c#,50,Programming Languages
+63,caching,51,"""Web Development"""
+64,chat,52,"""Communication"""
+65,client-server,53,"""Networking & Technology"""
+66,cllocation,6,"""Location and Navigation Services"""
+67,cllocationmanager,6,"""Location and Navigation Services"""
+68,clregion,54,"""Geographical Locations"""
+69,cocoa-touch,55,"""Mobile App Development"""
+70,compact-framework,56,"""Software Development"""
+71,connection,35,"""Technology & Internet"""
+72,cordova,26,"""Mobile App Development"""
+73,cordova-plugins,26,"""Mobile App Development"""
+74,core-bluetooth,10,"""Bluetooth Technology"""
+75,core-location,6,"""Location and Navigation Services"""
+76,core-motion,57,"""Mobile Technology"""
+77,cpu,13,"""Computer Hardware"""
+78,daemon,58,"""Computer Programming"""
+79,datetime,59,"""Programming Concepts"""
+80,debugging,4,"""Software Development"""
+81,disconnect,60,"""Technical Issues"""
+82,display,61,"""Screen Technology"""
+83,eclipse,62,"""Software Development Tools"""
+84,email,63,"""Communication"""
+85,energy,64,"""Science & Technology"""
+86,events,65,"""Activities"""
+87,exit,66,"""Navigation"""
+88,extjs,67,"""Programming Languages/Frameworks"""
+89,firebase,0,Cloud Messaging Services
+90,firebase-cloud-messaging,0,Cloud Messaging Services
+91,flutter,68,"""Programming Languages/Frameworks"""
+92,foreground,25,"""Android App Development"""
+93,foreground-service,8,"""Android Service Management"""
+94,fusedlocationproviderapi,31,"""Location Services API"""
+95,fusedlocationproviderclient,31,"""Location Services API"""
+96,game-engine,2,Game Development and Design
+97,garbage-collection,69,"""Waste Management"""
+98,geofencing,6,"""Location and Navigation Services"""
+99,geolocation,6,"""Location and Navigation Services"""
+100,google-api,12,"""Google Services"""
+101,google-cloud-messaging,0,Cloud Messaging Services
+102,google-latitude,12,"""Google Services"""
+103,google-maps,12,"""Google Services"""
+104,google-maps-sdk-ios,5,Software Development Kits (SDKs)
+105,google-play-services,12,"""Google Services"""
+106,gps,6,"""Location and Navigation Services"""
+107,handler,70,"""Programming Terms"""
+108,httpurlconnection,22,"""Web Development"""
+109,instruments,71,"""Music"""
+110,intercept,72,"""Mathematics/Statistics"""
+111,ios,20,iOS Development
+112,ios-background-mode,20,iOS Development
+113,ios-simulator,20,iOS Development
+114,ios4,20,iOS Development
+115,ios5,20,iOS Development
+116,ios6,20,iOS Development
+117,ios7,20,iOS Development
+118,ios8,20,iOS Development
+119,ipad-2,20,iOS Development
+120,iphone,20,iOS Development
+121,iphone-privateapi,20,iOS Development
+122,java,73,Programming Languages
+123,keep-alive,74,"""Networking Terms"""
+124,keypress,75,"""Computer Programming"""
+125,kotlin,76,"""Programming Languages"""
+126,lifecycle,77,"""Development Stages"""
+127,localization,78,"""Software Development"""
+128,location,6,"""Location and Navigation Services"""
+129,location-provider,6,"""Location and Navigation Services"""
+130,location-services,6,"""Location and Navigation Services"""
+131,locationlistener,79,"""Programming/Software Development"""
+132,locationmanager,6,"""Location and Navigation Services"""
+133,locking,28,"""Security & Privacy"""
+134,lockscreen,28,"""Security & Privacy"""
+135,logcat,80,"""Android Debugging"""
+136,long-polling,24,Voting Methods
+137,looper,81,"""Music Equipment"""
+138,macos,82,Operating Systems
+139,mapkit,83,"""Programming and Mapping Tools"""
+140,mkmapview,84,"""Mobile App Development"""
+141,mobile,85,"""Technology"""
+142,monitor,86,"""Electronics"""
+143,motion-detection,87,"""Security Systems"""
+144,mqtt,88,"""Internet of Things (IoT) Protocols"
+145,multitasking,89,Productivity Skills
+146,multithreading,90,Programming Concepts
+147,mylocationoverlay,91,"""Mapping and Geolocation"""
+148,mysql,92,"""Database Technologies"""
+149,nanohttpd,93,"""Web Server Technologies"""
+150,nativescript,94,"""Mobile App Development"""
+151,navigation,6,"""Location and Navigation Services"""
+152,networking,35,"""Technology & Internet"""
+153,node.js,17,Programming Languages & Technologies
+154,notifications,23,"""Mobile Notifications"""
+155,nstimer,21,"""Timing Tools"""
+156,objective-c,95,Programming Languages
+157,offline,34,"""Connectivity"""
+158,offline-caching,34,"""Connectivity"""
+159,onesignal,96,"""Mobile App Notifications"""
+160,onpause,25,"""Android App Development"""
+161,opengl-es,2,Game Development and Design
+162,optimization,97,"""Computer Science & Technology"""
+163,p2p,98,"""File Sharing"""
+164,performance,99,"""Entertainment"""
+165,phone-state-listener,3,"""Mobile and Windows Operating Systems"""
+166,phonegap,100,"""Mobile App Development"""
+167,phonegap-plugins,101,"""Mobile Development"""
+168,polling,24,Voting Methods
+169,pooling,102,Swimming & Water Activities
+170,power-management,15,"""Energy Efficiency"""
+171,power-saving,15,"""Energy Efficiency"""
+172,powermanager,19,"""Power Management"""
+173,profiling,103,"""Programming and Development"""
+174,programmatically-created,104,"""Software Development"""
+175,proximity,18,"""Sensors & Technology"""
+176,proximitysensor,18,"""Sensors & Technology"""
+177,pull-request,105,"""Software Development"""
+178,push,37,"""Push Notifications"""
+179,push-notification,37,"""Push Notifications"""
+180,pusher,37,"""Push Notifications"""
+181,ram,106,"""Computer Hardware"""
+182,react-native,107,"""Programming Languages/Frameworks"""
+183,real-time,108,"""Technology & Software"""
+184,redis,16,Database Technology
+185,refresh,109,"""Browser Actions"""
+186,rest,110,"""Relaxation"""
+187,scheduled-tasks,111,"""Task Management"""
+188,screen,112,"""Technology"""
+189,sdk,5,Software Development Kits (SDKs)
+190,sencha-touch-2,113,"""Mobile App Development"""
+191,sensors,114,"""Technology & Electronics"""
+192,service,8,"""Android Service Management"""
+193,service-discovery,8,"""Android Service Management"""
+194,sleep,7,"""Programming Sleep Functions"""
+195,socket.io,38,Network Communication Technologies
+196,sockets,38,Network Communication Technologies
+197,spp,115,"""Scientific Terms"""
+198,sprite-kit,2,Game Development and Design
+199,standby,39,Power Management Modes
+200,stomp,116,"""Music Genres"""
+201,suspend,39,Power Management Modes
+202,swift,117,"""Programming Languages"""
+203,task,118,"""Productivity"""
+204,tcp,119,"""Networking Protocols"""
+205,telephonymanager,120,"""Mobile Communication Technology"""
+206,thread-sleep,7,"""Programming Sleep Functions"""
+207,timer,21,"""Timing Tools"""
+208,tizen,5,Software Development Kits (SDKs)
+209,tizen-wearable-sdk,5,Software Development Kits (SDKs)
+210,toast,121,"""Food/Breakfast Items"""
+211,tracking,122,"""Analytics & Monitoring"""
+212,unity3d,2,Game Development and Design
+213,urbanairship.com,123,"""Website/Online Platform"""
+214,usage-statistics,124,"""Data Analysis"""
+215,vpn,125,"""Internet Security"""
+216,wait,126,"""Time Management"""
+217,wakelock,29,"""Alarm and Alert Systems"""
+218,wakeup,29,"""Alarm and Alert Systems"""
+219,wear-os,127,"""Operating Systems"""
+220,web-applications,11,Web Development
+221,web-services,11,Web Development
+222,webkit,128,"""Web Development"""
+223,websocket,38,Network Communication Technologies
+224,whitelist,129,"""Internet Security"""
+225,widget,130,"""Web Development"""
+226,wifi,36,"""Wireless Connectivity"""
+227,wifi-direct,36,"""Wireless Connectivity"""
+228,win-universal-app,131,"""Windows Development"""
+229,windows,3,"""Mobile and Windows Operating Systems"""
+230,windows-mobile,3,"""Mobile and Windows Operating Systems"""
+231,windows-mobile-5.0,3,"""Mobile and Windows Operating Systems"""
+232,windows-phone,3,"""Mobile and Windows Operating Systems"""
+233,windows-phone-7,3,"""Mobile and Windows Operating Systems"""
+234,windows-phone-8,3,"""Mobile and Windows Operating Systems"""
+235,xamarin,132,"""Mobile App Development"""
+236,xamarin.forms,133,"""Mobile App Development"""
+237,xamarin.ios,20,iOS Development
+238,xcode,14,"""Apple Xcode Development"""
+239,xcode-instruments,14,"""Apple Xcode Development"""
+240,xmpp,134,"""Communication Protocols"""
