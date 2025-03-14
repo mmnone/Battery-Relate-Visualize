@@ -44,7 +44,7 @@ ON
 LEFT JOIN 
     `bigquery-public-data.stackoverflow.users` cu 
 ON 
-    c.user_id = cu.id  -- เชื่อมกับ users table ด้วย user_id
+    c.user_id = cu.id
 WHERE 
     (
       (q.title LIKE '%drain%' AND q.title LIKE '%battery%') OR
