@@ -1,4 +1,9 @@
 ﻿# Battery-Relate-Visualize
+
+## สำหรับการ Query ใน Google Big Query
+* Query_DrainAndBattery_Data.sql
+    * Query ใน public dataset - 'stackoverflow" 
+
 ## ไฟล์ทั้งหมดที่ใช้สำหรับไฟล์ ipynb 
 * Battery_Related_issue.ipynb
     * big_query_data.csv
