@@ -1,5 +1,17 @@
 ﻿# Battery-Relate-Visualize
 
+## ไฟล์โค้ด .ipynb
+* Main
+     * Battery_Related_issue.ipynb - รวมโค้ดทุกอย่างที่ใช้ในการทำโปรเจคจากไฟล์โค้ดใน folder other_ipynb
+* /other_ipynb/
+     *  clean_data.ipynb                           - ใช้ในช่วงของการ clean ข้อมูล
+     *  Embedding.ipynb                            - ใช้ในช่วงการทำ embedding เพื่อนำไปทำ clustering
+     *  OpenAI_gpt.ipynb                           - ใช้ในช่วงของการให้ OpenAI แยกว่า cluster นั้นๆเป็น issue หรือไม่
+     *  hdbscan_tt.ipynb                           - ทดลองทำ hdbscan 
+     *  cookbook02132025_1025AM_Visualize_1.ipynb  - ทำ Clustering (K-means) กับ Visualize บางส่วน
+     *  Visualize_2.ipynb                          - ทำ Visualize ส่วนที่เหลือ
+     *  Word_Cloud.ipynb                           - ทำ WordCloud
+  
 ## สำหรับการ Query ใน Google Big Query
 * Query_DrainAndBattery_Data.sql
     * Query ใน public dataset - 'stackoverflow" 
@@ -15,3 +27,6 @@
  
 ## ไฟล์ที่ใช้ในโปรเจคนี้ทั้งหมด
 *Link* : [ไฟล์ที่ใช้ในโปรเจคนี้ทั้งหมด](https://drive.google.com/drive/folders/1MqpncLVRAE96WZ3PwYE8HWc0EzuiVLW0?usp=sharing)
+
+## ความคืบหน้าของงานในแต่ละสัปดาห์
+*Link* : [รายงานความคืบหน้า](https://docs.google.com/document/d/1fHEKVuxavreSGxqcpLd9BKmsx0SfyE0l-1RLKNPilb8/edit?usp=sharing)
