@@ -4,13 +4,13 @@
 * Main
      * Battery_Related_issue.ipynb - รวมโค้ดทุกอย่างที่ใช้ในการทำโปรเจคจากไฟล์โค้ดใน folder other_ipynb
 * /other_ipynb/
-     *  clean_data.ipynb                           - ใช้ในช่วงของการ clean ข้อมูล
-     *  Embedding.ipynb                            - ใช้ในช่วงการทำ embedding เพื่อนำไปทำ clustering
-     *  OpenAI_gpt.ipynb                           - ใช้ในช่วงของการให้ OpenAI แยกว่า cluster นั้นๆเป็น issue หรือไม่
-     *  hdbscan_tt.ipynb                           - ทดลองทำ hdbscan 
-     *  cookbook02132025_1025AM_Visualize_1.ipynb  - ทำ Clustering (K-means) กับ Visualize บางส่วน
-     *  Visualize_2.ipynb                          - ทำ Visualize ส่วนที่เหลือ
-     *  Word_Cloud.ipynb                           - ทำ WordCloud
+     *  clean_data.ipynb                           : ใช้ในช่วงของการ clean ข้อมูล
+     *  Embedding.ipynb                            : ใช้ในช่วงการทำ embedding เพื่อนำไปทำ clustering
+     *  OpenAI_gpt.ipynb                           : ใช้ในช่วงของการให้ OpenAI แยกว่า cluster นั้นๆเป็น issue หรือไม่
+     *  hdbscan_tt.ipynb                           : ทดลองทำ hdbscan 
+     *  cookbook02132025_1025AM_Visualize_1.ipynb  : ทำ Clustering (K-means) กับ Visualize บางส่วน
+     *  Visualize_2.ipynb                          : ทำ Visualize ส่วนที่เหลือ
+     *  Word_Cloud.ipynb                           : ทำ WordCloud
   
 ## สำหรับการ Query ใน Google Big Query
 * Query_DrainAndBattery_Data.sql
