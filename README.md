@@ -3,7 +3,7 @@
 
 ## ไฟล์โค้ด .ipynb
 * Main
-     * **Battery_Related_issue.ipynb** : รวมโค้ดทุกอย่างที่ใช้ในการทำโปรเจคจากไฟล์โค้ดใน folder other_ipynb
+     * **Battery_Related_issue.ipynb** : รวมโค้ดทุกอย่างที่ใช้ในการทำและสามารถนำไปนำเสนอได้จากไฟล์โค้ดใน folder other_ipynb
 * /other_ipynb/
      *  **clean_data.ipynb**                           : ใช้ในช่วงของการ clean ข้อมูล
      *  **Embedding.ipynb**                            : ใช้ในช่วงการทำ embedding เพื่อนำไปทำ clustering
