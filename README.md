@@ -1,4 +1,5 @@
 ﻿# Battery-Relate-Visualize
+รวมโค้ดและไฟล์ที่ใช้งานในการทำ research รายวิชา 229452-RESEARCH IN DATA SCIENCE
 
 ## ไฟล์โค้ด .ipynb
 * Main
